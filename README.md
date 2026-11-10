@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**24** solved · 16 problems · 0 labs · 8 math
+**25** solved · 16 problems · 1 labs · 8 math
 
 ![Coverage](./coverage.svg)
 
@@ -28,6 +28,12 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Matrix times Matrix ](https://www.deep-ml.com/problems/9) | medium | 2026-10-22 | [solution](problems/0009-matrix-times-matrix) |
 | [Newton's Method for Optimization](https://www.deep-ml.com/problems/221) | medium | 2026-10-30 | [solution](problems/0221-newton-s-method-for-optimization) |
 | [Quotient Rule for Derivatives](https://www.deep-ml.com/problems/312) | medium | 2026-10-29 | [solution](problems/0312-quotient-rule-for-derivatives) |
+
+## Labs
+
+| | Difficulty | Solved | |
+| --- | --- | --- | --- |
+| [Design Your Own Activation Function](https://www.deep-ml.com/labs/9) | easy | 2026-11-10 | [solution](labs/0009-design-your-own-activation-function) |
 
 ## Math
 
