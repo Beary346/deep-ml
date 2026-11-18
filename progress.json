@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16T23:56:07.652Z",
+  "generated_at": "2026-11-18T02:16:50.503Z",
   "items": {
     "problem:2": {
       "kind": "problem",
@@ -455,6 +455,17 @@
       "last_pushed_at": "2026-11-16T23:56:06.920Z",
       "language": "python",
       "lines": 17
+    },
+    "math:623": {
+      "kind": "math",
+      "id": "623",
+      "title": "Logarithmic Differentiation: The Derivative and Domain of x^x",
+      "difficulty": "easy",
+      "category": "Calculus for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/623",
+      "path": "math/0623-logarithmic-differentiation-the-derivative-and-domain-of-x-x",
+      "first_solved_at": "2026-11-18T02:16:49.652Z",
+      "last_pushed_at": "2026-11-18T02:16:49.652Z"
     }
   }
 }
