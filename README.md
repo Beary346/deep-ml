@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**38** solved · 23 problems · 1 labs · 14 math
+**39** solved · 24 problems · 1 labs · 14 math
 
 ![Coverage](./coverage.svg)
 
@@ -26,6 +26,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Linear Regression Using Gradient Descent](https://www.deep-ml.com/problems/15) | easy | 2026-11-11 | [solution](problems/0015-linear-regression-using-gradient-descent) |
 | [Linear Regression Using Normal Equation](https://www.deep-ml.com/problems/14) | easy | 2026-10-24 | [solution](problems/0014-linear-regression-using-normal-equation) |
 | [Min-Max Scaling of Feature Values](https://www.deep-ml.com/problems/112) | easy | 2026-10-25 | [solution](problems/0112-min-max-scaling-of-feature-values) |
+| [Pairwise Cosine Similarity Matrix](https://www.deep-ml.com/problems/1072) | easy | 2026-11-19 | [solution](problems/1072-pairwise-cosine-similarity-matrix) |
 | [Reshape Matrix](https://www.deep-ml.com/problems/3) | easy | 2026-10-22 | [solution](problems/0003-reshape-matrix) |
 | [Scalar Multiplication of a Matrix](https://www.deep-ml.com/problems/5) | easy | 2026-10-22 | [solution](problems/0005-scalar-multiplication-of-a-matrix) |
 | [Transpose of a Matrix](https://www.deep-ml.com/problems/2) | easy | 2026-10-21 | [solution](problems/0002-transpose-of-a-matrix) |
